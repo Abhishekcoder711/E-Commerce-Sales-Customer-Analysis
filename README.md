@@ -39,7 +39,7 @@ An online retailer wants to know:
 | Total Sales | ₹438K |
 | Total Profit | ₹37K |
 | Units Sold | 6K |
-| Average Order Value | ₹876 |
+| Average Order Value | ₹292 |
 
 ## Dataset
 - **Source:** [https://www.kaggle.com/datasets/saadharoon27/madhav-store-dataset]
@@ -110,7 +110,7 @@ An online retailer wants to know:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[your-username]/[repo-name].git
+   git clone https://github.com/Abhishekcoder711/E-Commerce-Sales-Customer-Analysis
    ```
 2. Run the SQL script in `sql/` to clean the data.
 3. Open the Excel file to view the Pivot Table analysis.
