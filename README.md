@@ -62,7 +62,7 @@ An online retailer wants to know:
 5. **Dashboard development:** loaded the cleaned data into Power BI and created an interactive dashboard.
 
 ## Dashboard
-![Dashboard Preview](Dashboard Image.png)
+![Dashboard Preview](https://github.com/Abhishekcoder711/E-Commerce-Sales-Customer-Analysis/blob/main/Dashboard%20Image.png)
 
 **Dashboard pages and views:**
 - Overview: Total Sales, Profit, Units Sold, Average Order Value
